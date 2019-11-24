@@ -5,7 +5,6 @@ public class ArrayRETUNsum {
 
     }
 
-    public static String [] nameOf()
 
 
 }
