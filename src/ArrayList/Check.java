@@ -15,6 +15,14 @@ public class Check {
 
         System.out.println(zara.numOfItems);
         zara.seeInventory();
+        zara.addItem();
+        zara.seeInventory();
+        zara.sellItem("Coat");
+        zara.seeInventory();
+        System.out.println(zara.totalSale);
+        zara.returnItem("Table");
+        zara.seeInventory();
+
 
     }
 }

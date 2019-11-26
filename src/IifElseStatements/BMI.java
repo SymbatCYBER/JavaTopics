@@ -8,6 +8,7 @@ public class BMI {
 
  System.out.println(" enter your mass in kg");
         System.out.println(" enter your mass in kg");
+        System.out.println(" enter your mass in kg");
 
 
         double mass = input.nextDouble();
