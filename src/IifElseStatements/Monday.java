@@ -5,7 +5,18 @@ import java.util.Scanner;
 public class Monday {
     public static void main(String[] args) {
 
-        int number = 1;
+int a=20;
+Integer i=Integer.valueOf(a);
+Integer j=a;
+        System.out.println(a+ " "+i+" "+j);
+
+
+
+
+
+
+
+       // int number = 1;
 //         for (int i =1; i <=10; i++) {
 //
 //             System.out.println(i);
@@ -30,12 +41,6 @@ public class Monday {
 //                System.out.println( "outer loop is " +i );
 //                System.out.println( j +" stars inner loop");
 //            }
-
-        for (int i = 1; i <= 10; i++)
-            for (int j = 1; j <= 10; j++) {
-
-                System.out.println(i + " x " + j + " = " + i * j);
-            }
 
 
     }

@@ -7,10 +7,10 @@ public class Dog {
     String color;
 
   public void bark(){
-      System.out.println("Dog is barking ");
+      System.out.println("Finally.Dog is barking ");
   }
 
   public void eat(){
-      System.out.println("Dog is eating ");
+      System.out.println("Finally.Dog is eating ");
   }
 }
