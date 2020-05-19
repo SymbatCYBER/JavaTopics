@@ -9,7 +9,7 @@ public class A {
 
     }
 
-    void methods2() throws C{
+    void methods2() {
 
     }
 }

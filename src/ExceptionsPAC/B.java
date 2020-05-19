@@ -6,9 +6,7 @@ public class B  extends A {
 
     }
     @Override
-    void methods2() throws C {
-        try {
+    void methods2(){
 
-        }
     }
 }

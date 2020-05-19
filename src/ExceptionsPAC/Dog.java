@@ -9,14 +9,12 @@ public class Dog {
         this.age = age;
     }
     public void bark() {
-       // System.out.println("Finally.Dog is barking");
-        if( this.age> 20 ){
-        throw new Dog;
+        // System.out.println("Finally.Dog is barking");
+        if (this.age > 20) {
+            throw new IndexOutOfBoundsException();
         }
+
+
     }
-
-
-
-
 
 }

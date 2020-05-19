@@ -1,5 +1,5 @@
 package ExceptionsPAC;
 
-public class DogInvalidAgeException  extends  {
+public class DogInvalidAgeException   {
 
 }
